@@ -5,4 +5,4 @@ metadata:
   namespace: openshift-performance-addon-operator
 spec:
   type: Git
-  pathname: https://github.com/alosadagrande/acm-cnf.git
+  pathname: https://github.com/vitus133/acm-cnf.git
